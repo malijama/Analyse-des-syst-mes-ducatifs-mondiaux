@@ -176,6 +176,12 @@ datasets_projet_2.zip
 datasets projet 2
 "print(\"Hello world\").py"
 .jovianrc
+temp/
+
+# Large data files (>100MB)
+data/raw/EdStatsData.csv
+data/raw/*.csv
+*.csv
 
 # IDE
 .vscode/
