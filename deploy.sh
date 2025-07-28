@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 🚀 Script de Déploiement Automatique GitHub
-# Auteur: Mohamed ALIJAMA
+# Auteur: Mohamed ALI JAMA
 # Description: Automatise le déploiement du projet d'analyse des systèmes éducatifs
 
 echo "🎯 === DÉPLOIEMENT GITHUB - PROJET ÉDUCATION ===" 

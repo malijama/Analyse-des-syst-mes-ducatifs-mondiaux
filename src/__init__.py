@@ -10,8 +10,8 @@ from .visualization import EducationVisualizer, save_plot
 from .analysis import EducationAnalyzer
 
 __version__ = "1.0.0"
-__author__ = "Mohamed ALIJAMA"
-__email__ = "votre.email@example.com"
+__author__ = "Mohamed ALI JAMA"
+__email__ = "mo.ali.jama@gmail.com"
 
 __all__ = [
     'EducationDataProcessor',

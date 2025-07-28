@@ -1,6 +1,6 @@
 # 🎯 Présentation Projet - Portfolio Employeur
 
-## 👨‍💻 Mohamed ALIJAMA - Data Scientist
+## 👨‍💻 Mohamed ALI JAMA - Data Scientist
 
 ### 📋 Résumé Exécutif
 
@@ -213,10 +213,10 @@ graph LR
 
 ## 📞 Contact & Discussion
 
-**Mohamed ALIJAMA**  
-📧 Email : [votre.email@example.com]  
-💼 LinkedIn : [linkedin.com/in/votre-profil]  
-🐙 GitHub : [github.com/votre-username]
+**Mohamed ALI JAMA**  
+📧 Email : mo.ali.jama@gmail.com  
+💼 LinkedIn : [Mohamed ALI JAMA](https://www.linkedin.com/in/0a651460/)  
+🐙 GitHub : [malijama](https://github.com/malijama/Analyse-des-syst-mes-ducatifs-mondiaux)
 
 ### 💬 Questions d'Entretien Préparées
 

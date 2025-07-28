@@ -182,10 +182,10 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ## 👨‍💻 Auteur
 
-**Mohamed ALIJAMA**
-- 🔗 LinkedIn: [Votre profil LinkedIn]
-- 📧 Email: votre.email@example.com
-- 🌐 Portfolio: [Votre site web]
+**Mohamed ALI JAMA**
+- 🔗 LinkedIn: [Mohamed ALI JAMA](https://www.linkedin.com/in/0a651460/)
+- 📧 Email: mo.ali.jama@gmail.com
+- 🌐 Portfolio: [Ce projet GitHub](https://github.com/malijama/Analyse-des-syst-mes-ducatifs-mondiaux)
 
 ---
 
