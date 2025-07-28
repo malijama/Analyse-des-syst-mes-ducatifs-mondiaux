@@ -166,10 +166,6 @@ L'analyse commence par une exploration approfondie des 5 datasets principaux :
 - Rapport de synthèse
 - Recommandations
 
-## 📄 License
-
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
-
 ## 👨‍💻 Auteur
 
 **Mohamed ALI JAMA**
