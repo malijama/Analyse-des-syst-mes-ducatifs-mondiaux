@@ -166,16 +166,6 @@ L'analyse commence par une exploration approfondie des 5 datasets principaux :
 - Rapport de synthèse
 - Recommandations
 
-## 🤝 Contribution
-
-Les contributions sont les bienvenues ! N'hésitez pas à :
-
-1. 🍴 Fork le projet
-2. 🌟 Créer une branche pour votre fonctionnalité
-3. 💾 Commit vos changements
-4. 📤 Push vers la branche
-5. 🔄 Ouvrir une Pull Request
-
 ## 📄 License
 
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
