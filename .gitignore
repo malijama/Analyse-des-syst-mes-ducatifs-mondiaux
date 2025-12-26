@@ -1,0 +1,51 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+.AppleDouble
+.LSOverride
+Desktop.ini
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Données
+*.csv
+*.xlsx
+*.xls
+data/
+datasets/
+raw_data/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Fichiers de configuration locaux
+config.local.py
+.env
+
+# Fichiers temporaires
+*.tmp
+temp/
+tmp/
